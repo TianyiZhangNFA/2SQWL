@@ -1,5 +1,5 @@
 # 2SQWL
-2-State Quantum Walk on a Line Algorithm (2SQWL) with non-localized initial states
+2-State Quantum Walk on a Line Algorithm (2SQWL) with non-localized initial state
 
 The algorithm corresponds to 
 
