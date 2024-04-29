@@ -21,7 +21,7 @@ def prob_qw(w_fun,W_w_int,we_real,we_imag,alpha,Beta,theta,t,sigma=1,app_prob=0.
     W_w_int : float
         integral results of (w_fun)^2 on (-pi,pi).
     we_real : function
-        Real part if w_fun
+        Real part of w_fun
     we_imag : function
         imaginary part of w_fun.
     alpha : float
