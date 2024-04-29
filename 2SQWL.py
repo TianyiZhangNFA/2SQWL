@@ -33,7 +33,7 @@ def prob_qw(w_fun,W_w_int,we_real,we_imag,alpha,Beta,theta,t,sigma=1,app_prob=0.
     t : int
         time of quantum walk.
     sigma : float, optional
-        standard deviation, only valid of truncated Gaussian law. The default is 1.
+        standard deviation, only valid for truncated Gaussian law. The default is 1.
     app_prob : float, optional
         float number close to 1, representing the proportion of the probability magnitude preserved in this quantum walk algorithm. The default is 0.999.
     quad_limit : int, optional
